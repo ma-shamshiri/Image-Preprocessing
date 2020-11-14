@@ -1,0 +1,11 @@
+<h2>Credits</h2>
+<ul>
+  <li>This is the homework project for the course COMP 6721 - Artificial Intelligence (Winter 2020), at Concordia University</li>
+  <li>Author: Mohammad Amin Shamshiri</li>
+</ul>
+
+https://gist.github.com/rxaviers/7360908
+
+https://github.com/launchcode01dl/mathematics-for-machine-learning-cousera
+
+https://github.com/Preston-Sundar/Coursera-Imperial-College-London-Mathematics-For-Machine-Learning-Linear-Algebra/tree/master/All%20Assessments%20and%20Programming%20Assignments
